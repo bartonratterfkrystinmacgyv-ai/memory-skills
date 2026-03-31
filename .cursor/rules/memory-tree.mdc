@@ -1,0 +1,6 @@
+---
+description: Memory Tree enforcement
+alwaysApply: true
+---
+在执行任何代码修改前，必须先读取 docs/INDEX.md。
+完成代码修改后，必须更新对应 docs/state-*.md。
